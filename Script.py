@@ -28,7 +28,7 @@ itclass script(object):
 
 
     ABOUT_TXT = """<b> ⌾ ᴍʏ ɴᴀᴍᴇ : {}
-⌾ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/kichuxd'>ᴋɪᴄʜᴜ-[🍃⃝🦋][℡✧ ]</a>
+⌾ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/d_Vittal_911545'>DACCHU-[🍃⃝🦋][℡✧ ]</a>
 ⌾ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3
 ⌾ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ ᴀꜱʏɴᴄɪᴏ 0.17.1
 ⌾ ꜱᴇʀᴠᴇʀ : ʀᴇɴᴅᴇʀ 
@@ -63,7 +63,7 @@ itclass script(object):
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ</b>
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<b>[Button Text](buttonurl:https://t.me/AM_FILMS)</b>
+<b>[Button Text](buttonurl:https://t.me/DVITTALKANNADAMOVIE)</b>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <b>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</b>"""
 
@@ -187,7 +187,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ᴍᴇᴅɪᴀ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏᴠᴇʀ ᴏᴜʀ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴏᴡɴᴇᴅ ʙʏ ᴜꜱ ᴀɴᴅ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏᴠᴇʀ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ʙʏ ꜱᴏᴍᴇᴏɴᴇ ᴇʟꜱᴇ. ᴛʜɪꜱ ʙᴏᴛ ᴊᴜꜱᴛ ɪɴᴅᴇx ᴛʜᴏꜱᴇ ꜰɪʟᴇꜱ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜ ʙʏ ᴛʜᴇ ᴜꜱᴇʀꜱ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ,ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴄᴏᴍᴘʟᴀɪɴᴛ ᴀʙᴏᴜᴛ ᴀɴʏ ᴄᴏɴᴛᴇɴᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴘʟᴇᴀꜱᴇ ɪɴꜰᴏʀᴍ ᴛʜᴇ ᴄʀᴇᴀᴛᴏʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛ ᴡᴇ ᴡɪʟʟ ʀᴇᴍᴏᴠᴇ ɪᴛ ᴀꜱᴀᴘ
 ʙʏ <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a>
 
-⌾ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/kichuxd'>ᴋɪᴄʜᴜ-[🍃⃝🦋][℡✧ ]</a>
+⌾ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/d_Vittal_911545'>Dacchuq-[🍃⃝🦋][℡✧ ]</a>
 
 ⌾ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :  <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a> @DVITTALKANNADAMOVIE</b>"""
 
@@ -205,7 +205,7 @@ Message <b>: {}</b>"""
 
 🖇 <em>File Size</em>: <code>{file_size}</code> 
 
-❤️‍🔥 </i>Join</i> [ADHOLOKAM](https://t.me/AM_FILMS)  
+❤️‍🔥 </i>Join</i> [ADHOLOKAM](https://t.me/DVITTALKANNADAMOVIE)  
 
 🖥 <i>Requests</i> - ||@raixpiro_bot|| """
 
