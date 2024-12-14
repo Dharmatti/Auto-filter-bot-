@@ -34,7 +34,7 @@ itclass script(object):
 ⌾ ꜱᴇʀᴠᴇʀ : ʀᴇɴᴅᴇʀ 
 ⌾ ᴅᴀᴛᴀʙᴀꜱᴇ : ᴍᴏɴɢᴏᴅʙ 
 ⌾ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ1.0.2[ʙᴇᴛᴀ]
-⌾ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a> </b>"""
+⌾ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a> </b>"""
 
     SOURCE_TXT = """<b>⎙ ꜱᴏᴜʀᴄᴇ ⎙
 ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴀᴍᴀʀɪᴀ ᴅᴇᴠꜱ ᴀɴᴅ ᴇᴠᴇʀʏᴏɴᴇ ɪɴ ᴛʜɪꜱ ᴊᴏᴜʀɴᴇʏ 
@@ -63,7 +63,7 @@ itclass script(object):
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ</b>
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<b>[Button Text](buttonurl:https://t.me/AM_FILMS)</b>
+<b>[Button Text](buttonurl:https://t.me/DVITTALKANNADAMOVIE)</b>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <b>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</b>"""
 
