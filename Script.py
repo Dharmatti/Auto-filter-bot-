@@ -1,4 +1,4 @@
-class script(object):
+itclass script(object):
     START_TXT = """<b> ʜᴇʏ ꜱᴡᴇᴇᴛʜᴇᴀʀᴛ.... {} 💖
 
 
@@ -134,7 +134,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ⌾ ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ : {}
 ⌾ ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ : {}
 
-⌾ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a> </b>"""
+⌾ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a> </b>"""
 
     LOG_TEXT_G = """#NewGroup
 𝖦𝗋𝗈𝗎𝗉 = {}(<code>{}</code>)
@@ -154,13 +154,13 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 """
 
     I_CUDNT = """
-<b>⌾ ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a>  </b>"""
+<b>⌾ ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a>  </b>"""
 
     I_CUD_NT = """
-<b>⌾ ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a>  </b>"""
+<b>⌾ ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a>  </b>"""
 
     MVE_NT_FND = """
-<b>⌾ ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a>  </b>"""
+<b>⌾ ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a>  </b>"""
 
     TOP_ALRT_MSG = """**⌾ ᴄʜᴇᴄᴋɪɴɢ ꜰᴏʀ Qᴜᴇʀʏ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ......⟳**"""
 
@@ -175,7 +175,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 • 𝖲𝗈𝗅𝗈 2017
 • 𝖣𝗁𝗈𝗈𝗆 3 𝖧𝗂𝗇
-• 𝖪𝗎𝗋𝗎𝗉 𝖪𝖺𝗇
+• 𝖪𝗎𝗋𝗎𝗉 ಕನ್ನಡ 
 • 𝖣𝖺𝗋𝗄 𝗌01
 • 𝖲𝗁𝖾 𝖧𝗎𝗅𝗄 720𝗉
 • 𝖥𝗋𝗂𝖾𝗇𝖽𝗌 𝗌03 1080𝗉
@@ -185,11 +185,11 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     OWNER_INFO = """<b>⎙ ᴅɪꜱᴄʟᴀɪᴍᴇʀ ⎙
 
 ᴍᴇᴅɪᴀ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏᴠᴇʀ ᴏᴜʀ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴏᴡɴᴇᴅ ʙʏ ᴜꜱ ᴀɴᴅ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏᴠᴇʀ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ʙʏ ꜱᴏᴍᴇᴏɴᴇ ᴇʟꜱᴇ. ᴛʜɪꜱ ʙᴏᴛ ᴊᴜꜱᴛ ɪɴᴅᴇx ᴛʜᴏꜱᴇ ꜰɪʟᴇꜱ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜ ʙʏ ᴛʜᴇ ᴜꜱᴇʀꜱ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ,ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴄᴏᴍᴘʟᴀɪɴᴛ ᴀʙᴏᴜᴛ ᴀɴʏ ᴄᴏɴᴛᴇɴᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴘʟᴇᴀꜱᴇ ɪɴꜰᴏʀᴍ ᴛʜᴇ ᴄʀᴇᴀᴛᴏʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛ ᴡᴇ ᴡɪʟʟ ʀᴇᴍᴏᴠᴇ ɪᴛ ᴀꜱᴀᴘ
-ʙʏ <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a>
+ʙʏ <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a>
 
 ⌾ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/kichuxd'>ᴋɪᴄʜᴜ-[🍃⃝🦋][℡✧ ]</a>
 
-⌾ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :  <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a> </b>"""
+⌾ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :  <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a> @DVITTALKANNADAMOVIE</b>"""
 
     NORSLTS = """
 #NoResults 
@@ -217,7 +217,7 @@ Message <b>: {}</b>"""
 ⌾ ʀᴇʟᴇᴀꜱᴇ ɪɴꜰᴏ : {year}
 ⌾ ᴄᴇɴᴛᴜʀɪᴇꜱ : {countries}
 
-⌾ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a>  </b>"""
+⌾ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a>  </b>"""
     
     ALL_FILTERS = """
 <b>ʜᴇʏ {}, ᴛʜᴇꜱᴇ ᴀʀᴇ ᴛʜᴇ ᴛʜʀᴇᴇ ꜰɪʟᴛᴇʀ ᴏᴘᴛɪᴏɴꜱ ɪ ʜᴀᴠᴇ</b>"""
