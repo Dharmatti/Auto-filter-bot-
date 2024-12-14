@@ -10,7 +10,7 @@ class script(object):
 
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ ɴᴇᴡ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ꜰʀɪᴇɴᴅꜱ ᴀɴᴅ ꜰᴀᴍɪʟʏ ᴍᴇᴍʙᴇʀꜱ ❤️</b>
 
-<b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ</b> <a href=''><b>@ᴀᴍ_ꜰɪʟᴍꜱ</b></a>"""
+<b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ</b> <a href='https://t.me/DVITTALKANNADAMOVIE'><b>@DVITTALKANNADAMOVIE</b></a>"""
 
     HELP_TXT = """<b>⎙ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ ⎙
 
